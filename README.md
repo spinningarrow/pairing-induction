@@ -1,8 +1,8 @@
-#Roman Numerals Kata
+# Roman Numerals Kata
 Convert decimal numbers into Roman Numeral notation. You may assume all numbers are positive and smaller 2^31
 
 
-##Examples:
+## Examples:
 
 1 -> „I“
 2 -> „II“
@@ -14,7 +14,7 @@ Convert decimal numbers into Roman Numeral notation. You may assume all numbers 
 99 -> „XCIX“
 2013 -> „MMXIII“
 
-##Conversion Table:
+## Conversion Table:
 ```
 1       I
 5       V
