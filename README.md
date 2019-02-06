@@ -1,5 +1,5 @@
 # Roman Numerals Kata
-Convert decimal numbers into Roman Numeral notation.
+Convert Roman numerals into decimal notation.
 
 ## Conversion table:
 
