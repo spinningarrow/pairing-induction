@@ -2,8 +2,8 @@ package numerals;
 
 public class Main {
 
-    public static String foo(){
-        return "";
+    public static int convertToDecimal(String roman) {
+        return 0;
     }
 
 }
