@@ -3,7 +3,21 @@ Convert Roman numerals into decimal notation.
 
 ## Conversion table
 
-<img width="213" alt="screenshot 2019-02-06 at 11 14 48 am" src="https://user-images.githubusercontent.com/1797328/52334667-84ecf880-2a00-11e9-8034-6b4cc4c7528c.png">
+| Roman Numeral | Decimal Value |
+|---------------|---------------|
+| I             | 1             |
+| IV            | 4             |
+| V             | 5             |
+| IX            | 9             |
+| X             | 10            |
+| XL            | 40            |
+| L             | 50            |
+| XC            | 90            |
+| C             | 100           |
+| CD            | 400           |
+| D             | 500           |
+| CM            | 900           |
+| M             | 1000          |
 
 ## Examples
 
