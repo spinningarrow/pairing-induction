@@ -27,7 +27,8 @@ II -> 2
 IV -> 4
 V -> 5
 CCIII -> 203
-MCMXCII - 1992
+MCMXCII -> 1992
+QWERTY -> ???
 ```
 
 ## Resources
