@@ -35,3 +35,12 @@ QWERTY -> ???
 
 - Online calculator: https://www.rapidtables.com/convert/number/roman-numerals-converter.html
 - Roman Numerals on wikipedia: https://en.wikipedia.org/wiki/Roman_numerals
+
+## How to start 
+
+Import via intellij:
+ 1. open the menu "File"
+ 2. use the menu item "open..."
+ 3. go to the project folder
+ 4. click on "open"
+ 5. check "use auto import" flag in the just opened window
